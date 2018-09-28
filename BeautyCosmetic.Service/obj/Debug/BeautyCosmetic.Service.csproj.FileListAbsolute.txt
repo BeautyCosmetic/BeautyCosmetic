@@ -1,0 +1,15 @@
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Service.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Service.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Common.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Data.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Model.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Common.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Data.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Data.dll.config
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Model.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\BeautyCosmetic.Model.dll.config
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.csprojAssemblyReference.cache
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.csproj.CoreCompileInputs.cache
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.csproj.CopyComplete
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.pdb

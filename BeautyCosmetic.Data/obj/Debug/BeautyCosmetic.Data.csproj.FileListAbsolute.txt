@@ -1,0 +1,14 @@
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Data.dll.config
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Data.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Data.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Common.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Common.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.xml
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csprojAssemblyReference.cache
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csproj.CoreCompileInputs.cache
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csproj.CopyComplete
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.pdb
