@@ -9,3 +9,8 @@ E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\obj\Debug\BeautyCosmetic.Mo
 E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\obj\Debug\BeautyCosmetic.Model.csproj.CopyComplete
 E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\obj\Debug\BeautyCosmetic.Model.dll
 E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\obj\Debug\BeautyCosmetic.Model.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\obj\Debug\BeautyCosmetic.Model.csprojAssemblyReference.cache
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml

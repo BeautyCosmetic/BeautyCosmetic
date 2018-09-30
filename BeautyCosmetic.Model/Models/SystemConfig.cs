@@ -11,8 +11,10 @@ namespace BeautyCosmetic.Model.Models
 
         [Required]
         [Column(TypeName = "varchar")]
+        [MaxLength(50)]
         public string Code { set; get; }
 
+        [MaxLength(50)]
         public string ValueString { set; get; }
 
         public int? ValueInt { set; get; }

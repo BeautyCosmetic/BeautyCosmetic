@@ -13,3 +13,9 @@ E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.
 E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.csproj.CopyComplete
 E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.dll
 E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\obj\Debug\BeautyCosmetic.Service.pdb
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\EntityFramework.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\EntityFramework.xml
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Nam 4\Project\BeautyCosmetic\BeautyCosmetic.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
