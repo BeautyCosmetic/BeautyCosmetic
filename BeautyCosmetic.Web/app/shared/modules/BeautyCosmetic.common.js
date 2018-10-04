@@ -1,3 +1,3 @@
 ﻿(function () {
-    angular.module('BeautyCosmetic.common', ['ui.router'])
+    angular.module('BeautyCosmetic.common', ['ui.router','ngCkeditor'])
 })();
