@@ -1,0 +1,47 @@
+﻿@model BeautyCosmetic.Web.Models.LoginViewModel
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/Layouts.cshtml";
+}
+
+<!-- signin Modal -->
+<div>
+    <div class="agilemodal-dialog modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Đăng Nhập</h5>
+            </div>
+            <div class="modal-body  pt-3 pb-5 px-sm-5">
+                <div class="row">
+                    <div class="col-md-6 align-self-center">
+                        <img src="~/Assets/client/images/p3.png" class="img-fluid" alt="login_image" />
+                    </div>
+                    <div class="col-md-6">
+                        @using (Html.BeginForm("Login", "Account", new { returnUrl = @ViewBag.ReturnUrl }, FormMethod.Post))
+                        {
+                            <div class="form-group">
+                                <label for="recipient-name" class="col-form-label">User Name</label><label>*</label>
+                                @Html.TextBoxFor(model => model.UserName)
+                            </div>
+                            <div class="form-group">
+                                <label class="col-form-label">Password</label><label>*</label>
+                                @Html.PasswordFor(model => model.Password, new { style= "margin-left: 10px;" })
+                            </div>
+                            <div>
+                                @Html.CheckBoxFor(model => model.RememberMe)
+                                Nhớ mật khẩu?
+                                <a class="forgot" style="float:right" href="#">Forgot Your Password?</a>
+                            </div>
+                           
+                            <div class="right-w3l">
+                                <input type="submit" style="margin-top:20px" class="form-control" value="Login">
+                            </div>
+                        }
+                        <p style="text-align: center; font-size: 12px;"><i class="fa fa-user"></i> Bạn chưa có tài khoản?<a href="/dang-ky_html" style="color: #00b7f1;" title="tạo tài khoản"> Đăng ký</a> </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
