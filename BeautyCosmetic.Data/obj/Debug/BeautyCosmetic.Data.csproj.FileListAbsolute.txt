@@ -68,3 +68,40 @@ E:\New folder\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.M
 E:\New folder\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddGroupUser.resources
 E:\New folder\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.ChangeOrderDetail.resources
 E:\New folder\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.RevenuesStatisticSP.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Data.dll.config
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Data.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Data.pdb
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Common.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Model.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Common.pdb
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Model.pdb
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\BeautyCosmetic.Model.dll.config
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.xml
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csprojAssemblyReference.cache
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.InitialDB.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddErrorTable.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.IntergrateAspnetIdentity.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddTagField.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddContentToSlide.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddMoreQuantitty.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.addforeignkey.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.ContactDetail.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.ModifyString.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.Feedback.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddCustomerId.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.RenameTableIdentity.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.AddGroupUser.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.ChangeOrderDetail.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.Migrations.RevenuesStatisticSP.resources
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csproj.GenerateResource.cache
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csproj.CoreCompileInputs.cache
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.csproj.CopyComplete
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.dll
+E:\PROJECT\BeautyCosmetic\BeautyCosmetic.Data\obj\Debug\BeautyCosmetic.Data.pdb
